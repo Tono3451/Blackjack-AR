@@ -30,10 +30,10 @@ conda install numpy
 
 #### Instalar `cv2` (OpenCV)
 
-Para instalar OpenCV, puedes usar conda-forge:
+Instalar la versión de openCV que contiene las utilidades para manejar ArUco:
 
 ```bash
-conda install -c conda-forge opencv
+pip3 install opencv-contrib-python==4.6.0.66
 ```
 
 #### Instalar `mediapipe`
