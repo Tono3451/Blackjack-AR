@@ -53,3 +53,6 @@ Para esta demostración, el juego seguirá las reglas básicas del Blackjack que
 ## Vídeo de demostracción
 
 Se presenta un vídeo en el cual se puede apreciar una partida normal. (poner link del vídeo aquí coño de youtube)
+
+
+[Demo BlackJackAR](https://youtu.be/LgWuBaNY40c)

@@ -162,4 +162,8 @@ En caso de que el jugador no disponga de la apuesta mínima, se muestra una pant
 
 ## Vídeo ejemplo del código depurado
 
-    PONER VIDEO Y FOTOS DE LA CONSOLA CON EL ESTADO DEL JUEGO
+Enlace al video demo con la opción de depuración activada:
+[Demo](https://youtu.be/htZCUCBI8Uw)
+
+Para ver el desarrollo de la partida se puede observar el siguiente archivo: 
+[OutputDebugGame](assets\RecursosREADME\outputDebugGame.txt)
