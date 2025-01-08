@@ -43,3 +43,13 @@ Instalar `mediapipe` encargado del reconocimiento de manos:
 ```bash
 pip install mediapipe
 ```
+
+## Reglas del Blackjack
+
+Para esta demostración, el juego seguirá las reglas básicas del Blackjack que se encuentran en [la página de Wikipedia](https://es.wikipedia.org/wiki/Blackjack) con ciertas restricciones.
+
+-----------------------
+
+## Vídeo de demostracción
+
+Se presenta un vídeo en el cual se puede apreciar una partida normal. (poner link del vídeo aquí coño de youtube)

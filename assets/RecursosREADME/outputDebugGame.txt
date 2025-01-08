@@ -1,0 +1,215 @@
+Automatically created module for IPython interactive environment
+[INFO] detecting 'DICT_4X4_100' markers...
+
+¡Bienvenido al Blackjack!
+Tienes 2000 fichas.
+Apuesta inicial de 600 fichas colocada.
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 1400 | Apuesta actual: 600
+
+Cartas del Dealer:
+Carta visible: 9 de clubs
+Carta oculta: ???
+
+Tus manos:
+Mano 1 (Mano actual): 3 de clubs, king de diamonds (Valor: 13)
+
+Acciones disponibles:
+- Pedir carta (índice arriba)
+- Plantarse (puño cerrado)
+- Doblar (índice y medio arriba)
+==================================================
+
+
+Carta repartida
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 1400 | Apuesta actual: 600
+
+Cartas del Dealer:
+Carta visible: 9 de clubs
+Carta oculta: ???
+
+Tus manos:
+Mano 1 (Mano actual): 3 de clubs, king de diamonds, 8 de spades (Valor: 21)
+
+Acciones disponibles:
+- Pedir carta (índice arriba)
+- Plantarse (puño cerrado)
+==================================================
+
+
+Te plantas
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 2600 | Apuesta actual: 600
+
+Cartas del Dealer:
+Cartas: 9 de clubs, king de clubs
+Valor total: 19
+
+Tus manos:
+Mano 1: 3 de clubs, king de diamonds, 8 de spades (Valor: 21)
+==================================================
+
+
+¡Juego terminado!
+Tus fichas: 2600
+Apuesta inicial de 2600 fichas colocada.
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 0 | Apuesta actual: 2600
+
+Cartas del Dealer:
+Carta visible: queen de diamonds
+Carta oculta: ???
+
+Tus manos:
+Mano 1 (Mano actual): queen de clubs, 8 de hearts (Valor: 18)
+
+Acciones disponibles:
+- Pedir carta (índice arriba)
+- Plantarse (puño cerrado)
+- Doblar (índice y medio arriba)
+==================================================
+
+
+Te plantas
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 5200 | Apuesta actual: 2600
+
+Cartas del Dealer:
+Cartas: queen de diamonds, 5 de diamonds, 7 de spades
+Valor total: 22
+
+Tus manos:
+Mano 1: queen de clubs, 8 de hearts (Valor: 18)
+==================================================
+
+Apuesta inicial de 5200 fichas colocada.
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 0 | Apuesta actual: 5200
+
+Cartas del Dealer:
+Carta visible: jack de hearts
+Carta oculta: ???
+
+Tus manos:
+Mano 1 (Mano actual): 4 de spades, 6 de spades (Valor: 10)
+
+Acciones disponibles:
+- Pedir carta (índice arriba)
+- Plantarse (puño cerrado)
+- Doblar (índice y medio arriba)
+==================================================
+
+
+Carta repartida
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 0 | Apuesta actual: 5200
+
+Cartas del Dealer:
+Carta visible: jack de hearts
+Carta oculta: ???
+
+Tus manos:
+Mano 1 (Mano actual): 4 de spades, 6 de spades, king de diamonds (Valor: 20)
+
+Acciones disponibles:
+- Pedir carta (índice arriba)
+- Plantarse (puño cerrado)
+==================================================
+
+
+Te plantas
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 5200 | Apuesta actual: 5200
+
+Cartas del Dealer:
+Cartas: jack de hearts, king de spades
+Valor total: 20
+
+Tus manos:
+Mano 1: 4 de spades, 6 de spades, king de diamonds (Valor: 20)
+==================================================
+
+Apuesta inicial de 5200 fichas colocada.
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 0 | Apuesta actual: 5200
+
+Cartas del Dealer:
+Carta visible: 10 de hearts
+Carta oculta: ???
+
+Tus manos:
+Mano 1 (Mano actual): king de diamonds, 9 de spades (Valor: 19)
+
+Acciones disponibles:
+- Pedir carta (índice arriba)
+- Plantarse (puño cerrado)
+- Doblar (índice y medio arriba)
+==================================================
+
+
+Te plantas
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 10400 | Apuesta actual: 5200
+
+Cartas del Dealer:
+Cartas: 10 de hearts, 5 de hearts, ace de diamonds, jack de clubs
+Valor total: 26
+
+Tus manos:
+Mano 1: king de diamonds, 9 de spades (Valor: 19)
+==================================================
+
+Apuesta inicial de 10400 fichas colocada.
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 0 | Apuesta actual: 10400
+
+Cartas del Dealer:
+Carta visible: ace de diamonds
+Carta oculta: ???
+
+Tus manos:
+Mano 1 (Mano actual): 5 de clubs, 9 de diamonds (Valor: 14)
+
+Acciones disponibles:
+- Pedir carta (índice arriba)
+- Plantarse (puño cerrado)
+- Doblar (índice y medio arriba)
+==================================================
+
+
+Carta repartida
+
+==================================================
+ESTADO DEL JUEGO:
+Fichas: 0 | Apuesta actual: 10400
+
+Cartas del Dealer:
+Cartas: ace de diamonds, king de diamonds
+Valor total: 21
+
+Tus manos:
+Mano 1: 5 de clubs, 9 de diamonds, 10 de spades (Valor: 24)
+==================================================
