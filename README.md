@@ -50,6 +50,10 @@ Para esta demostración, el juego seguirá las reglas básicas del Blackjack que
 
 -----------------------
 
+## Explicación del Código
+
+[Explicación](model\README.md)
+
 ## Vídeo de demostracción
 
 Se presenta un vídeo en el cual se puede apreciar una partida normal. (poner link del vídeo aquí coño de youtube)
