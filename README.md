@@ -1,5 +1,15 @@
 # Blackjack-AR
 
+## Índice (Se debe modificar al terminar)
+
+- [Installation Setup](#instalar-del-entorno)
+  - [Create Environment](#crear-el-entorno)
+  - [Activate Environment](#activar-el-entorno)
+  - [Install Packages](#instalar-los-paquetes)
+    - [Install numpy](#instalar-numpy)
+    - [Install cv2](#instalar-cv2-opencv)
+    - [Install mediapipe](#instalar-mediapipe)
+
 ## Instalar del entorno
 
 ### Crear el entorno
@@ -43,5 +53,3 @@ Instalar `mediapipe` encargado del reconocimiento de manos:
 ```bash
 pip install mediapipe
 ```
-
-ffhuishsruigruigherig
