@@ -205,3 +205,13 @@ El BlackJack es un juego de cartas donde el objetivo es conseguir un valor de 21
 ## Explicación del Código
 
 Para una explicación más detallada del código ir a [Explicación](model/README.md)
+
+---
+Saúl Antonio Cruz Pérez  
+Carlos Mireles Rodríguez
+
+Universidad de las Palmas de Gran Canaria  
+Escuela de Ingeniería en Informática  
+Grado de Ingeniería Informática  
+Visión por Computador  
+Curso 2024/2025
