@@ -1,10 +1,10 @@
 # Blackjack-AR
 
-## Instalar el entorno de python para el proyecto
+## Instalar del entorno
 
 ### Crear el entorno
 
-Abre tu terminal o consola y ejecuta el siguiente comando para crear un nuevo entorno con un nombre específico, por ejemplo, `BlackjackAR`: acncahfuaehfuief
+Dentro de la consola de anaconda se crea un entorno con el nombre `BlackjackAR`:
 
 ```bash
 conda create --name=BlackjackAR python=3.11.5
@@ -12,7 +12,7 @@ conda create --name=BlackjackAR python=3.11.5
 
 ### Activar el entorno
 
-Una vez creado el entorno, actívalo con:
+Una vez creado el entorno, se activa mediante:
 
 ```bash
 conda activate BlackjackAR
@@ -20,7 +20,7 @@ conda activate BlackjackAR
 
 ### Instalar los paquetes
 
-Instala los paquetes en el entorno activado:
+Instalar los paquetes en el entorno activado:
 
 #### Instalar `numpy`
 
@@ -38,7 +38,7 @@ pip3 install opencv-contrib-python==4.6.0.66
 
 #### Instalar `mediapipe`
 
-Como `mediapipe` no está disponible en los canales de Conda, debes instalarlo usando `pip`:
+Instalar `mediapipe` encargado del reconocimiento de manos:
 
 ```bash
 pip install mediapipe
