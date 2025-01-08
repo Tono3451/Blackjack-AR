@@ -52,7 +52,7 @@ Para esta demostración, el juego seguirá las reglas básicas del Blackjack que
 
 ## Explicación del Código
 
-[Explicación](model\README.md)
+[Explicación](model/README.md)
 
 ## Vídeo de demostracción
 

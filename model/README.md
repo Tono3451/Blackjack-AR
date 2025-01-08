@@ -166,4 +166,4 @@ Enlace al video demo con la opción de depuración activada:
 [Demo](https://youtu.be/htZCUCBI8Uw)
 
 Para ver el desarrollo de la partida se puede observar el siguiente archivo: 
-[OutputDebugGame](assets/RecursosREADME/outputDebugGame.txt)
+[OutputDebugGame](../assets/RecursosREADME/outputDebugGame.txt)
