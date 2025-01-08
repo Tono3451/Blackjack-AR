@@ -161,15 +161,10 @@ El BlackJack es un juego de cartas donde el objetivo es conseguir un valor de 21
 
 ## Vídeo de demostracción
 
+[![Alt text](https://img.youtube.com/vi/LgWuBaNY40c&ab_channel=CarlosMireles/0.jpg)](https://www.youtube.com/watch?v=LgWuBaNY40c&ab_channel=CarlosMireles)
 [Demo BlackJackAR](https://youtu.be/LgWuBaNY40c)
 
 
 ## Explicación del Código
 
 Para una explicación más detallada del código ir a [Explicación](model/README.md)
-
-
-
-
-
-
