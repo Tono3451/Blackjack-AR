@@ -1,6 +1,6 @@
 # Blackjack-AR
 
-## Instalar del entorno
+## Instalación del entorno
 
 ### Crear el entorno
 
@@ -43,5 +43,3 @@ Instalar `mediapipe` encargado del reconocimiento de manos:
 ```bash
 pip install mediapipe
 ```
-
-ffhuishsruigruigherig
